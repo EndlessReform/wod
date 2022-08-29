@@ -3,58 +3,36 @@ import { HomepageBanner, HomepageCallout } from 'gatsby-theme-carbon';
 import HomepageTemplate from 'gatsby-theme-carbon/src/templates/Homepage';
 import { calloutLink } from './Homepage.module.scss';
 
-import Carbon from './carbon.jpg';
+import Carbon from './exercise_red.jpg';
 
-const FirstLeftText = () => <p>Callout component</p>;
+const FirstLeftText = () => <p>About these WODs</p>;
 
 const FirstRightText = () => (
   <p>
-    This is a callout component. You can edit the contents by updating the{' '}
-    <a href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/5fe12de31bb19fbfa2cab7c69cd942f55aa06f79/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
-      pre-shadowed homepage template
-    </a>
-    . You can also provide <code>color</code> and <code>backgroundColor</code>{' '}
-    props to suit your theme.
+    These are the archives of {' '}
+    <a href="https://web.archive.org/web/20220202105453/https://crossfittheville.wordpress.com/">Crossfit TheVille</a>
+    , a Louisville, KY gym open from 2011 to 2022. 
+    This site loops their schedule, so you can use their plans indefinitely.
     <a
       className={calloutLink}
-      href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/main/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
-      Homepage source →
+      href="https://crossfittheville.wordpress.com/">
+      Original Crossfit TheVille site (may be defunct) →
     </a>
   </p>
 );
 
-const SecondLeftText = () => <p>Callout component</p>;
 
-const SecondRightText = () => (
-  <p>
-    You can also not use these components at all by not providing the callout
-    props to the template or writing your own template.
-    <a
-      className={calloutLink}
-      href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/main/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
-      Homepage source →
-    </a>
-  </p>
-);
 
-const BannerText = () => <h1>Carbon Gatsby theme</h1>;
+const BannerText = () => <h1>Workouts of the Day</h1>;
 
 const customProps = {
   Banner: <HomepageBanner renderText={BannerText} image={Carbon} />,
   FirstCallout: (
     <HomepageCallout
-      backgroundColor="#030303"
+      backgroundColor="#750e13"
       color="white"
       leftText={FirstLeftText}
       rightText={FirstRightText}
-    />
-  ),
-  SecondCallout: (
-    <HomepageCallout
-      leftText={SecondLeftText}
-      rightText={SecondRightText}
-      color="white"
-      backgroundColor="#061f80"
     />
   ),
 };

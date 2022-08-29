@@ -17,7 +17,7 @@ def slugify(text):
     return text
 
 def main():
-    with open('all_posts.csv', mode="r") as infile:
+    with open('scripts/all_posts.csv', mode="r") as infile:
         csvFile = csv.reader(infile)
         # Skip header
         next(csvFile, None)
@@ -29,10 +29,10 @@ def main():
                 doc, 
                 format="markdown",
             )
-            wod_body = f"---\ntitle: {title}\npublished: {line[3]}\n---\n\n" + md
-            wod_slug = slugify(title).lower()
+            wod_body = f"---\ntitle: '{title}'\npublish_time: '{line[3]}'\n---\n\n" + md
+            wod_slug = slugify(title).lower() or "untitled"
             
-            with open(f"../src/pages/wods/{wod_slug}.md", "w") as outfile:
+            with open(f"src/pages/wods/{wod_slug}.md", "w") as outfile:
                 outfile.write(wod_body)
 
             if i % 25 == 0:

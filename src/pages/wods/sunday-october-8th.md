@@ -1,0 +1,55 @@
+---
+title: 'Sunday, October 8th'
+publish_time: '2017-10-07T23:49:13Z'
+---
+
+Practice: Snatch Balance
+
+Power Snatch 5-5-5\@75% 1RM
+
+then,
+
+12-Power Snatch (115/75)
+
+12-OHS
+
+12-Bar Facing Burpees
+
+9-Power Snatch
+
+9-OHS
+
+9-Bar Facing Burpees
+
+6-Power Snatch
+
+6-OHS
+
+6-Bar Facing Burpees
+
+For time.
+
+ 
+
+***\*On October 28th The Ville will be hosting a fundraising wod for the
+family of LMPD Officer Jason Schweitzer who was tragically killed by a
+drunk driver in Lexington, Ky.  You can donate and purchase a shirt at
+the link below.  CrossFit 222 will show up as the host but you can
+choose your shirt size and our location when checking out.  The shirts
+will be brought to The Ville for you.  Please sign up soon and show your
+support for one of our LMPD officers and his family!***
+
+***Event brite
+link: <https://www.eventbrite.com/e/teamschweitzforever-memorial-hero-wod-tickets-38057643436?aff=affiliate1>***
+
+ 
+
+***\*The next Strength Program will start October 15th.  For more
+information contact Eric at fallscitystrength\@gmail.com.***
+
+ 
+
+***\*****True Grit 5, our annual 4 person team competition, will take
+place this year on November 4th!  Get your teams together now.  More
+info to come. Truegritcomp.wordpress.com.  Workout 1 to be posted
+soon!***

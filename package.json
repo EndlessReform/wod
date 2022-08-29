@@ -9,12 +9,15 @@
     "build": "gatsby build",
     "build:clean": "yarn clean && gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "extract": "python3 scripts/convert-wods.py"
   },
   "dependencies": {
+    "@carbon/react": "^1.11.0",
     "gatsby": "^3.3.1",
     "gatsby-theme-carbon": "^2.1.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-markdown": "^8.0.3"
   }
 }
