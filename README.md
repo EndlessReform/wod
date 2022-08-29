@@ -1,6 +1,10 @@
-# Gatsby Theme Carbon Starter
+# CrossFit TheVille Archived WODs
 
-## What is this?
+> DISCLAIMER: All WODs were written by Crossfit TheVille; I make no claim to ownership. This site is purely for archival purposes and is not monetized.
+
+## What is this site?
+
+## What is this repo?
 
 > Gatsby [themes](https://www.gatsbyjs.org/docs/themes/) encapsulate all of the
 > configuration and implementation details of Gatsby websites. This is a

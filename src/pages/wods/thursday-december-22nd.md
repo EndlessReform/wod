@@ -1,0 +1,33 @@
+---
+title: 'Thursday, December 22nd'
+publish_time: '2016-12-22T03:27:05Z'
+---
+
+Back Squat 8-8-8-8\@70% 1RM
+
+GHR's 8-8-8-8
+
+then,
+
+15:00 AMRAP of:
+
+20 Step Ups (10/leg, 24/20″) 25/15's
+
+15 Wall Balls (20/14)
+
+10 KBS's (53/35)
+
+ 
+
+***\*This Saturday will be our free Christmas Eve WOD, The 12 Days of
+Christmas, at 10:00am at The Ville. All other classes are cancelled.***
+
+***\*Personal Training, Elements, and Massage Gift Certificates now
+available for the Holidays!***
+
+***\*Our 2nd Annual Pre Open in house competition will start January 1st
+so get ready! RX Men, RX Women, scaled, and masters (50+) divisions.
+More details to come.***
+
+***\*The next Strength Program will start January 7th. For more
+information email Eric at: Fallscitystrength\@gmail.com.***
